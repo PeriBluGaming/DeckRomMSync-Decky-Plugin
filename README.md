@@ -5,13 +5,15 @@ It automatically synchronize your RomM Collections to the Steam Deck directly to
 No more manual copying of games to your Steam Deck!
 
 ## Requirement
-- RomM Installation ( >= v.3.8.1)
+- RomM Installation (v.3.8.1)
 - Steam Deck with Decky-Plugin ([Install Decky-Plugin](https://github.com/SteamDeckHomebrew/decky-loader))
 
 ## Key Features
 - automatically detect changes of your RomM Collecction (adding/removing Games)
 - enable/disable automatically synchronize for your RomM Collections
 - Platform (Game System) matching
+- Resync Game
+- Delete Game from Steamdeck
 
 ## planned Features
 - Browse your RomM Library directly on the Steamdeck and download Games
