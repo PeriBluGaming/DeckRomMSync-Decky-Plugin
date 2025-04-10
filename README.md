@@ -4,6 +4,9 @@ It automatically synchronize your RomM Collections to the Steam Deck directly to
 
 No more manual copying of games to your Steam Deck!
 
+## Notice
+Please note that the project is currently in alpha. Issues may occur.
+
 ## Requirement
 - RomM Installation (v.3.8.1)
 - Steam Deck with Decky-Plugin ([Install Decky-Plugin](https://github.com/SteamDeckHomebrew/decky-loader))
